@@ -1,0 +1,12 @@
+{
+    "users": [{
+
+        "uuid": "3a7308ee-0980-469b-9753-81da3ea21ee8",
+        "product_name": "Cadeira Gamer",
+        "color": "Preto e Vermelho",
+        "product_qty": "5",
+        "description": "Cadeira confortavel e elegante",
+        "seller_name": "Yago das cadeiras"
+
+    }]
+}

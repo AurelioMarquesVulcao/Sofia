@@ -1,0 +1,10 @@
+nltk
+numpy
+tflearn
+tensorflow
+
+teste 02
+
+pip install chatterbot
+pip install chatterbot-corpus
+pip install awscli==1.11.18

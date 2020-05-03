@@ -1,0 +1,39 @@
+version: "3"
+services:
+  sofia:
+    build: .
+    container_name: sofia
+    restart: always
+    env_file:
+     - .env
+    ports:
+       - ${SERVER_PORT}:${SERVER_PORT}
+    volumes:
+      - .:/src
+    working_dir: /src
+    command: yarn dev
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "5"
+
+#   api_2:
+#     image: node:latest
+#     container_name: api_2
+#     restart: always
+#     depends_on: 
+#       - api
+#     env_file:
+#      - .env
+#     ports:
+#       - ${SERVER_PORT2}:${SERVER_PORT2}
+#     volumes:
+#       - .:/src
+#     working_dir: /src
+#     command: npm start
+#     logging:
+#       driver: "json-file"
+#       options:
+#         max-size: "10m"
+#         max-file: "5"
