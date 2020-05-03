@@ -12,23 +12,20 @@ router.get("/", (req, res, next) => {
     .catch(err => res.status(500).json({ error: err }));
 });
 
-router.get("/:pages", (req, res, next) => {
-  // estou preparando um parametro para ser executado por uma função
-  let query = {};
-  let page = req.params.pages;
-  // parametro para quantidade de usuarios retornados no get importate
-  let limit = 2;
-  let skip = limit * (page - 1);
-  Place.find(query)
-    .skip(skip)
-    .limit(limit)
-    .exec()
-    .then(placeList => res.status(200).json(page))
-    .catch(err => res.status(500).json({ error: err }));
-  res.status(200).json({
-    message: "New place created"
-  });
-});
+// router.get("/:pages", (req, res, next) => {
+//   // estou preparando um parametro para ser executado por uma função
+//   let query = {};
+//   let page = req.params.pages;
+//   // parametro para quantidade de usuarios retornados no get importate
+//   let limit = 2;
+//   let skip = limit * (page - 1);
+//   Place.find(query)
+//     .skip(skip)
+//     .limit(limit)
+//     .exec()
+//     .then(placeList => res.status(200).json(page))
+//     .catch(err => res.status(500).json({ error: err }));
+// });
 
 // Grava apenas um dado no banco de dados
 router.post("/", (req, res, next) => {
@@ -79,22 +76,22 @@ router.post("/", (req, res, next) => {
 // });
 
 
-// // Exibe um indice pelo id.
-// router.get("/:placeId", (req, res, next) => {
-//   const id = req.params.placeId;
-//   Place.findById(id)
-//     .exec()
-//     .then(place => {
-//       if (place) {
-//         res.status(200).json(place);
-//       } else {
-//         res.status(404).json({ message: "Local Não encontrado" });
-//       }
-//     })
-//     .catch(err => {
-//       res.status(500).json({ error: err });
-//     });
-// });
+// Exibe um indice pelo id.
+router.get("/:placeId", (req, res, next) => {
+  const id = req.params.placeId;
+  Place.findById(id)
+    .exec()
+    .then(place => {
+      if (place) {
+        res.status(200).json("oi"+place);
+      } else {
+        res.status(404).json({ message: "Local Não encontrado" });
+      }
+    })
+    .catch(err => {
+      res.status(500).json({ error: err });
+    });
+});
 
 
 
@@ -108,7 +105,7 @@ router.post("/", (req, res, next) => {
 //     cases: req.body.cases,
 //     death: req.body.death,
 //     date: req.body.date,
-
+    
 //   },{new: true})
 //   .exec()
 //   .then(result => console.log(result))
