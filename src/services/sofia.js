@@ -1,4 +1,3 @@
-const question = require('./question_test');
 const points = require('./sofia_learn');
 const validation = require('./sofia_learn');
 
