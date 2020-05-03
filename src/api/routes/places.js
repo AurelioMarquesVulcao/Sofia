@@ -25,6 +25,9 @@ router.get("/:pages", (req, res, next) => {
     .exec()
     .then(placeList => res.status(200).json(page))
     .catch(err => res.status(500).json({ error: err }));
+  res.status(200).json({
+    message: "New place created"
+  });
 });
 
 // Grava apenas um dado no banco de dados
@@ -105,7 +108,7 @@ router.post("/", (req, res, next) => {
 //     cases: req.body.cases,
 //     death: req.body.death,
 //     date: req.body.date,
-    
+
 //   },{new: true})
 //   .exec()
 //   .then(result => console.log(result))
