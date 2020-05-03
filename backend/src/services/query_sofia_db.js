@@ -1,4 +1,5 @@
 const axios = require('axios');
+const save = require('./sofia');
 
 
 // Make a request for a user with a given ID
@@ -10,10 +11,11 @@ axios.get('http://localhost:3000/users')
         var data1 = response.data
         
         console.log(data1);
-        module.export = data1
+        
 
     })
     .catch(function (error) {
         // handle error
         console.log(error);
     });
+

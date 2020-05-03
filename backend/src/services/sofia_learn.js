@@ -1,23 +1,3 @@
-// var resp = "cor é branca"
-
-// // perguntas indexadas por pontos?
-// var perg = ["qual é a cor do produto", "o produto é de aço"]
-
-// var perg_r = "prezado qual cor"
-// match = 0.5
-
-
-// if (points(perg_r, perg[0]) > match) {
-//     console.log(resp);
-
-// }
-
-
-// var perg_fat = perg_r.split(" ")
-// console.log(perg_fat);
-// var re_fat = perg.split(" ")
-// console.log(re_fat);
-
 // criar esquema de pontos corridos
 function points(question, answers) {
     // Não apague isso IMPORTANTE!!!!
@@ -41,8 +21,39 @@ function points(question, answers) {
     correctness = answers_points / question.length
     return correctness
 }
-console.log(points(perg_r, perg[0]))
-
-
+// console.log(points(perg_r, perg[0]))
 
 module.exports = points
+
+// função de validação de pergunta
+function validation(question1, question2) {
+    if (points(question1, question2) > match) {
+        return points(question1, question2)
+    }
+    else {
+        return 0
+    }
+}
+
+module.exports = validation
+
+
+// var resp = "cor é branca"
+
+// // perguntas indexadas por pontos?
+// var perg = ["qual é a cor do produto", "o produto é de aço"]
+
+// var perg_r = "prezado qual cor"
+// match = 0.5
+
+
+// if (points(perg_r, perg[0]) > match) {
+//     console.log(resp);
+
+// }
+
+
+// var perg_fat = perg_r.split(" ")
+// console.log(perg_fat);
+// var re_fat = perg.split(" ")
+// console.log(re_fat);
