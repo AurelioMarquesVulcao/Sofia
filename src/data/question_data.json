@@ -1,242 +1,671 @@
-[
-  {
+[{
     "_id": "1",
-    "product_name": ["O nome do produto é", "qual o nome do produto"],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "que produto e esse",
+      "isso é chamado "
+    ],
     "color": ["qual a cor do produto", "O produto possui qual cores"],
-    "product_qty": ["qual a quantidade do estoque", "você ainda possui estoque?", "você ainda tem quantos", "quantos você possui ?"],
-    "description": ["Do que é feito o produto", "quais são os detalhes do produto", "o produto posssui mais detalhes"],
-    "seller_name": ["qual é o seu nome", "qual o nome do vendedor", "quem está vendendo o produto"]
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui",
+      "qual a quantidade"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "a bolsa da louis vuitton",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "2",
-    "product_name": ["O nome do produto é", "qual o nome do produto"],
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
     "color": ["qual a cor do produto", "O produto possui qual cores"],
-    "product_qty": ["qual a quantidade do estoque", "você ainda possui estoque?", "você ainda tem quantos", "quantos você possui ?"],
-    "description": ["Do que é feito o produto", "quais são os detalhes do produto", "o produto posssui mais detalhes", "Produto original, lacrado e NF"],
-    "seller_name": ["qual é o seu nome", "qual o nome do vendedor", "quem está vendendo o produto"]
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui",
+      "qual a quantidade"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Qual a Frequendia",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "3",
-    "product_name": "IPhone 11 Max",
-    "color": "branco e vermelho",
-    "product_qty": "24",
-    "description": ["Do que é feito o produto", "quais são os detalhes do produto", "o produto posssui mais detalhes"],
-    "seller_name": ["qual é o seu nome", "qual o nome do vendedor", "quem está vendendo o produto"]
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui",
+      "qual a quantidade"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "4",
-    "product_name": "mesa",
-    "color": "banca, cinza e preta",
-    "product_qty": "2",
-    "description": "Mesa de 50 a 80 cm",
-    "seller_name": "pedro"
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "5",
-    "product_name": "Carregador portatil",
-    "color": "preta e vermelha",
-    "product_qty": "4",
-    "description": "Bataria que dura 10 dias",
-    "seller_name": "Joel"
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "6",
-    "product_name": "Dipirona",
-    "color": "cinza",
-    "product_qty": "10",
-    "description": "validade ate dezemdro de 2020",
-    "seller_name": "Gustavo"
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "7",
-    "product_name": "pasta de dente",
-    "color": "branca",
-    "product_qty": "3",
-    "description": "data de fabricão 03/05/2020",
-    "seller_name": "Joice"
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "8",
-    "product_name": "secador",
-    "color": "rosa e preto",
-    "product_qty": "18",
-    "description": "Bivolt",
-    "seller_name": "Andreza"
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "9",
-    "product_name": "sonic o filme",
-    "color": "azul",
-    "product_qty": "10",
-    "description": "Sonic o filme legendado",
-    "seller_name": "felipe"
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "10",
-    "product_name": "Mi Band 4",
-    "color": "preta",
-    "product_qty": "20",
-    "description": "a prova de água",
-    "seller_name": "luciano"
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui ?"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "11",
-    "product_name": "Galaxy S10+",
-    "color": "preta e branco",
-    "product_qty": "2",
-    "description": "Garantia e Assistencia no Brasil",
-    "seller_name": "luciano"
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "12",
-    "product_name": "cadeirinha para bebe ",
-    "color": "preta e branca",
-    "product_qty": "5",
-    "description": "cadeira para criaça de 6 meses ate 1 ano",
-    "seller_name": "felipe"
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "13",
-    "product_name": "Roda de Carro",
-    "color": "preta",
-    "product_qty": "3",
-    "description": "Pares de roda aro 22",
-    "seller_name": "thais"
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "14",
-    "product_name": "redmi airdots",
-    "color": "preto  e branco",
-    "product_qty": "15",
-    "description": "Compativel com Android e IPhone",
-    "seller_name": "yngra"
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "15",
-    "product_name": "Pote de Balas",
-    "color": "transparente",
-    "product_qty": "6",
-    "description": "Capacidade máxima para 100 balas",
-    "seller_name": "yago"
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "16",
-    "product_name": "Pulseira",
-    "color": "preta, verde água",
-    "product_qty": "11",
-    "description": "Pulseira com várias colores",
-    "seller_name": "yasmim"
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "17",
-    "product_name": "",
-    "color": "",
-    "product_qty": "",
-    "description": "",
-    "seller_name": "pedro"
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "18",
-    "product_name": "",
-    "color": "",
-    "product_qty": "",
-    "description": "",
-    "seller_name": "Julio"
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "19",
-    "product_name": "",
-    "color": "",
-    "product_qty": "",
-    "description": "",
-    "seller_name": "bruna"
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "20",
-    "product_name": "",
-    "color": "",
-    "product_qty": "",
-    "description": "",
-    "seller_name": "ronaldo"
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "21",
-    "product_name": "",
-    "color": "",
-    "product_qty": "",
-    "description": "",
-    "seller_name": "igor"
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "22",
-    "product_name": "",
-    "color": "",
-    "product_qty": "",
-    "description": "",
-    "seller_name": "Maria"
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "23",
-    "product_name": "",
-    "color": "",
-    "product_qty": "",
-    "description": "",
-    "seller_name": "jaqueline"
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "24",
-    "product_name": "",
-    "color": "",
-    "product_qty": "",
-    "description": "",
-    "seller_name": "janete"
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "25",
-    "product_name": "",
-    "color": "",
-    "product_qty": "",
-    "description": "",
-    "seller_name": "roberta"
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "26",
-    "product_name": "",
-    "color": "",
-    "product_qty": "",
-    "description": "",
-    "seller_name": "lucas"
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "27",
-    "product_name": "",
-    "color": "",
-    "product_qty": "",
-    "description": "",
-    "seller_name": "aurelio"
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "28",
-    "product_name": "",
-    "color": "",
-    "product_qty": "",
-    "description": "",
-    "seller_name": ""
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "29",
-    "product_name": "",
-    "color": "",
-    "product_qty": "",
-    "description": "",
-    "seller_name": ""
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   },
   {
     "_id": "30",
-    "product_name": ["O nome do produto é", "qual o nome do produto"],
+    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
     "color": ["qual a cor do produto", "O produto possui qual cores"],
-    "product_qty": ["qual a quantidade do estoque", "você ainda possui estoque?", "você ainda tem quantos", "quantos você possui ?"],
-    "description": ["Do que é feito o produto", "quais são os detalhes do produto", "o produto posssui mais detalhes"],
-    "seller_name": ["qual é o seu nome", "qual o nome do vendedor", "quem está vendendo o produto"]
+    "product_qty": [
+      "qual a quantidade do estoque",
+      "você ainda possui estoque",
+      "você ainda tem quantos",
+      "quantos você possui"
+    ],
+    "description": [
+      "Do que é feito o produto",
+      "quais são os detalhes do produto",
+      "o produto posssui mais detalhes",
+      "Produto original, lacrado e NF"
+    ],
+    "seller_name": [
+      "qual é o seu nome",
+      "qual o nome do vendedor",
+      "quem está vendendo o produto"
+    ]
   }
 ]
