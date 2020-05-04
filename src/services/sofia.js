@@ -8,7 +8,7 @@ const Data_questions = require('../data/question_db')
 match = 0.1
 
 // pergunta do comprador
-var perg_r = "qual o nome do produto"
+var perg_r = " estoque"
 
 
 const datas = Datas
@@ -19,6 +19,7 @@ const data_questions = Data_questions
 
 // função que responde a pergunta
 function answers(question, question_data, data, id) {
+    question = question.trim()
     id = id-1
     sofia_replies = 'Eu ainda não sei a resposta'
     answers_i = 0
@@ -90,7 +91,7 @@ function answers(question, question_data, data, id) {
     }
     return sofia_replies
 }
-// console.log(answers(perg_r, data_questions, datas, 1));
+console.log(answers(perg_r, data_questions, datas, 23));
 
 // console.log(data_questions);
 
