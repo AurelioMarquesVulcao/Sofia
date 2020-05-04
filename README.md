@@ -22,3 +22,9 @@ A proxima vez que alguém pergurntar...
 * **SofiA**: Olá, tudo bem? Sim, laranja é uma fruta. Espero que tenha ajudado, tenha um ótimo dia.
 
 **SofiA** aprende com os vendedores e pode ter suas respostas refinadas pela **Olist**, que passará a se concentrar apenas nas respostas que realmente precisam ser personalizadas.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=HRytLqkJ0xQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+https://www.youtube.com/watch?v=HRytLqkJ0xQ
