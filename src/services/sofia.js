@@ -7,8 +7,8 @@ const Data_questions = require('../data/question_db')
 // 0.5 coresponde a 50% de certeza na resposta,
 match = 0.1
 
-// pergunta do comprador
-var perg_r = "estoque"
+// pergunta do comprador para testes locais
+// var perg_r = "estoque"
 
 
 const datas = Datas
@@ -91,7 +91,8 @@ function answers(question, question_data, data, id) {
     }
     return sofia_replies
 }
-console.log(answers(perg_r, data_questions, datas, 23));
+// para testar localmente tem que mudar o id manualmente 
+// console.log(answers(perg_r, data_questions, datas, 23));
 
 // console.log(data_questions);
 
