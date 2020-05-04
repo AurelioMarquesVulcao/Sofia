@@ -1,4 +1,4 @@
-# IU SofiA
+# IA SofiA
 
 ### Por não encontrarmos um produto configuravél com as características que julgamos necessárias para **Olist**, desenvolvemos do zero nossa própia IA. A **SofiA**
 
