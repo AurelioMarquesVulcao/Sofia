@@ -25,7 +25,7 @@ app.use(bodyParser.json());
 app.use(cors());
 
 
-app.use("/places", placesRouter);
+app.use("/", placesRouter);
 
 //para erros do tipo não encontrado
 app.use((req, res, next) => {

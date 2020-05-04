@@ -12,7 +12,7 @@
     "product_name": ["O nome do produto é", "qual o nome do produto"],
     "color": ["qual a cor do produto", "O produto possui qual cores"],
     "product_qty": ["qual a quantidade do estoque", "você ainda possui estoque?", "você ainda tem quantos", "quantos você possui ?"],
-    "description": ["Do que é feito o produto", "quais são os detalhes do produto", "o produto posssui mais detalhes"],
+    "description": ["Do que é feito o produto", "quais são os detalhes do produto", "o produto posssui mais detalhes", "Produto original, lacrado e NF"],
     "seller_name": ["qual é o seu nome", "qual o nome do vendedor", "quem está vendendo o produto"]
   },
   {
