@@ -23,8 +23,24 @@ A proxima vez que alguém pergurntar...
 
 **SofiA** aprende com os vendedores e pode ter suas respostas refinadas pela **Olist**, que passará a se concentrar apenas nas respostas que realmente precisam ser personalizadas.
 
+## Usando a IA SofiA
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=HRytLqkJ0xQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+#### Foi utilizado a requisição GET para simplificar o uso e o teste de sofia para qualquer pessoa. dessa forma qualquer um com o link: https://sofiaia.herokuapp.com/ , pode acessar os proditos de teste. E realizar perguntas acrescentando o ID do produto e sua pergunta. conforme este exemplo: "https://sofiaia.herokuapp.com/1/ qual a o nome do vendedor ?".
+
+## Exemplos de como a sofia deverá funcionar:
+
+* perguntando se a bolsa é Louis Vuiton
+
+![teste01](https://github.com/AurelioMarquesVulcao/Sofia/blob/master/src/asset/images/teste%2001.PNG?raw=true).
+
+* perguntando qual é a cor do produto
+
+![teste02](https://github.com/AurelioMarquesVulcao/Sofia/blob/master/src/asset/images/teste%2002.PNG?raw=true).
+
+* perguntando qual se o vendedor tem o produto em estoque
+
+![teste03](https://github.com/AurelioMarquesVulcao/Sofia/blob/master/src/asset/images/teste%2003.PNG?raw=true).
 
 
-https://www.youtube.com/watch?v=HRytLqkJ0xQ
+
+<!-- https://www.youtube.com/watch?v=HRytLqkJ0xQ -->
