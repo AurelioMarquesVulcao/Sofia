@@ -1,10 +1,12 @@
-[{
+[
+  {
     "_id": "1",
     "product_name": [
       "O nome do produto é",
       "qual o nome do produto",
       "que produto e esse",
-      "isso é chamado "
+      "isso é chamado de",
+      "nome desse produto"
     ],
     "color": ["qual a cor do produto", "O produto possui qual cores"],
     "product_qty": [
@@ -24,12 +26,18 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "2",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
     "color": ["qual a cor do produto", "O produto possui qual cores"],
     "product_qty": [
       "qual a quantidade do estoque",
@@ -48,12 +56,18 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "3",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
     "color": ["qual a cor do produto", "O produto possui qual cores"],
     "product_qty": [
       "qual a quantidade do estoque",
@@ -71,18 +85,25 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "4",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
     "color": ["qual a cor do produto", "O produto possui qual cores"],
     "product_qty": [
       "qual a quantidade do estoque",
       "você ainda possui estoque",
       "você ainda tem quantos",
-      "quantos você possui"
+      "quantos você possui",
+      "qual a quantidade"
     ],
     "description": [
       "Do que é feito o produto",
@@ -93,18 +114,29 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "5",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
-    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
+    "color": [
+      "qual a cor do produto",
+      "O produto possui qual cores",
+      "qual cor"
+    ],
     "product_qty": [
       "qual a quantidade do estoque",
       "você ainda possui estoque",
       "você ainda tem quantos",
-      "quantos você possui"
+      "quantos você possui",
+      "qual a quantidade"
     ],
     "description": [
       "Do que é feito o produto",
@@ -115,18 +147,29 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "6",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
-    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
+    "color": [
+      "qual a cor do produto",
+      "O produto possui qual cores",
+      "qual cor"
+    ],
     "product_qty": [
       "qual a quantidade do estoque",
       "você ainda possui estoque",
       "você ainda tem quantos",
-      "quantos você possui"
+      "quantos você possui",
+      "qual a quantidade"
     ],
     "description": [
       "Do que é feito o produto",
@@ -137,18 +180,29 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "7",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
-    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
+    "color": [
+      "qual a cor do produto",
+      "O produto possui qual cores",
+      "qual cor"
+    ],
     "product_qty": [
       "qual a quantidade do estoque",
       "você ainda possui estoque",
       "você ainda tem quantos",
-      "quantos você possui"
+      "quantos você possui",
+      "qual a quantidade"
     ],
     "description": [
       "Do que é feito o produto",
@@ -159,18 +213,29 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "8",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
-    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
+    "color": [
+      "qual a cor do produto",
+      "O produto possui qual cores",
+      "qual cor"
+    ],
     "product_qty": [
       "qual a quantidade do estoque",
       "você ainda possui estoque",
       "você ainda tem quantos",
-      "quantos você possui"
+      "quantos você possui",
+      "qual a quantidade"
     ],
     "description": [
       "Do que é feito o produto",
@@ -181,18 +246,29 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "9",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
-    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
+    "color": [
+      "qual a cor do produto",
+      "O produto possui qual cores",
+      "qual cor"
+    ],
     "product_qty": [
       "qual a quantidade do estoque",
       "você ainda possui estoque",
       "você ainda tem quantos",
-      "quantos você possui"
+      "quantos você possui",
+      "qual a quantidade"
     ],
     "description": [
       "Do que é feito o produto",
@@ -203,18 +279,29 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "10",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
-    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
+    "color": [
+      "qual a cor do produto",
+      "O produto possui qual cores",
+      "qual cor"
+    ],
     "product_qty": [
       "qual a quantidade do estoque",
       "você ainda possui estoque",
       "você ainda tem quantos",
-      "quantos você possui ?"
+      "quantos você possui",
+      "qual a quantidade"
     ],
     "description": [
       "Do que é feito o produto",
@@ -225,18 +312,29 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "11",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
-    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
+    "color": [
+      "qual a cor do produto",
+      "O produto possui qual cores",
+      "qual cor"
+    ],
     "product_qty": [
       "qual a quantidade do estoque",
       "você ainda possui estoque",
       "você ainda tem quantos",
-      "quantos você possui"
+      "quantos você possui",
+      "qual a quantidade"
     ],
     "description": [
       "Do que é feito o produto",
@@ -247,18 +345,29 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "12",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
-    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
+    "color": [
+      "qual a cor do produto",
+      "O produto possui qual cores",
+      "qual cor"
+    ],
     "product_qty": [
       "qual a quantidade do estoque",
       "você ainda possui estoque",
       "você ainda tem quantos",
-      "quantos você possui"
+      "quantos você possui",
+      "qual a quantidade"
     ],
     "description": [
       "Do que é feito o produto",
@@ -269,18 +378,29 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "13",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
-    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
+    "color": [
+      "qual a cor do produto",
+      "O produto possui qual cores",
+      "qual cor"
+    ],
     "product_qty": [
       "qual a quantidade do estoque",
       "você ainda possui estoque",
       "você ainda tem quantos",
-      "quantos você possui"
+      "quantos você possui",
+      "qual a quantidade"
     ],
     "description": [
       "Do que é feito o produto",
@@ -291,18 +411,29 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "14",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
-    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
+    "color": [
+      "qual a cor do produto",
+      "O produto possui qual cores",
+      "qual cor"
+    ],
     "product_qty": [
       "qual a quantidade do estoque",
       "você ainda possui estoque",
       "você ainda tem quantos",
-      "quantos você possui"
+      "quantos você possui",
+      "qual a quantidade"
     ],
     "description": [
       "Do que é feito o produto",
@@ -313,18 +444,29 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "15",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
-    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
+    "color": [
+      "qual a cor do produto",
+      "O produto possui qual cores",
+      "qual cor"
+    ],
     "product_qty": [
       "qual a quantidade do estoque",
       "você ainda possui estoque",
       "você ainda tem quantos",
-      "quantos você possui"
+      "quantos você possui",
+      "qual a quantidade"
     ],
     "description": [
       "Do que é feito o produto",
@@ -335,18 +477,29 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "16",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
-    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
+    "color": [
+      "qual a cor do produto",
+      "O produto possui qual cores",
+      "qual cor"
+    ],
     "product_qty": [
       "qual a quantidade do estoque",
       "você ainda possui estoque",
       "você ainda tem quantos",
-      "quantos você possui"
+      "quantos você possui",
+      "qual a quantidade"
     ],
     "description": [
       "Do que é feito o produto",
@@ -357,18 +510,29 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "17",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
-    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
+    "color": [
+      "qual a cor do produto",
+      "O produto possui qual cores",
+      "qual cor"
+    ],
     "product_qty": [
       "qual a quantidade do estoque",
       "você ainda possui estoque",
       "você ainda tem quantos",
-      "quantos você possui"
+      "quantos você possui",
+      "qual a quantidade"
     ],
     "description": [
       "Do que é feito o produto",
@@ -379,18 +543,29 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "18",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
-    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
+    "color": [
+      "qual a cor do produto",
+      "O produto possui qual cores",
+      "qual cor"
+    ],
     "product_qty": [
       "qual a quantidade do estoque",
       "você ainda possui estoque",
       "você ainda tem quantos",
-      "quantos você possui"
+      "quantos você possui",
+      "qual a quantidade"
     ],
     "description": [
       "Do que é feito o produto",
@@ -401,18 +576,29 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "19",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
-    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
+    "color": [
+      "qual a cor do produto",
+      "O produto possui qual cores",
+      "qual cor"
+    ],
     "product_qty": [
       "qual a quantidade do estoque",
       "você ainda possui estoque",
       "você ainda tem quantos",
-      "quantos você possui"
+      "quantos você possui",
+      "qual a quantidade"
     ],
     "description": [
       "Do que é feito o produto",
@@ -423,18 +609,29 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "20",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
-    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
+    "color": [
+      "qual a cor do produto",
+      "O produto possui qual cores",
+      "qual cor"
+    ],
     "product_qty": [
       "qual a quantidade do estoque",
       "você ainda possui estoque",
       "você ainda tem quantos",
-      "quantos você possui"
+      "quantos você possui",
+      "qual a quantidade"
     ],
     "description": [
       "Do que é feito o produto",
@@ -445,18 +642,29 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "21",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
-    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
+    "color": [
+      "qual a cor do produto",
+      "O produto possui qual cores",
+      "qual cor"
+    ],
     "product_qty": [
       "qual a quantidade do estoque",
       "você ainda possui estoque",
       "você ainda tem quantos",
-      "quantos você possui"
+      "quantos você possui",
+      "qual a quantidade"
     ],
     "description": [
       "Do que é feito o produto",
@@ -467,18 +675,29 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "22",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
-    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
+    "color": [
+      "qual a cor do produto",
+      "O produto possui qual cores",
+      "qual cor"
+    ],
     "product_qty": [
       "qual a quantidade do estoque",
       "você ainda possui estoque",
       "você ainda tem quantos",
-      "quantos você possui"
+      "quantos você possui",
+      "qual a quantidade"
     ],
     "description": [
       "Do que é feito o produto",
@@ -489,18 +708,29 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "23",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
-    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
+    "color": [
+      "qual a cor do produto",
+      "O produto possui qual cores",
+      "qual cor"
+    ],
     "product_qty": [
       "qual a quantidade do estoque",
       "você ainda possui estoque",
       "você ainda tem quantos",
-      "quantos você possui"
+      "quantos você possui",
+      "qual a quantidade"
     ],
     "description": [
       "Do que é feito o produto",
@@ -511,18 +741,29 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "24",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
-    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
+    "color": [
+      "qual a cor do produto",
+      "O produto possui qual cores",
+      "qual cor"
+    ],
     "product_qty": [
       "qual a quantidade do estoque",
       "você ainda possui estoque",
       "você ainda tem quantos",
-      "quantos você possui"
+      "quantos você possui",
+      "qual a quantidade"
     ],
     "description": [
       "Do que é feito o produto",
@@ -533,13 +774,23 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "25",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
-    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
+    "color": [
+      "qual a cor do produto",
+      "O produto possui qual cores",
+      "qual cor"
+    ],
     "product_qty": [
       "qual a quantidade do estoque",
       "você ainda possui estoque",
@@ -555,13 +806,23 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "26",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
-    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
+    "color": [
+      "qual a cor do produto",
+      "O produto possui qual cores",
+      "qual cor"
+    ],
     "product_qty": [
       "qual a quantidade do estoque",
       "você ainda possui estoque",
@@ -577,13 +838,23 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "27",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
-    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
+    "color": [
+      "qual a cor do produto",
+      "O produto possui qual cores",
+      "qual cor"
+    ],
     "product_qty": [
       "qual a quantidade do estoque",
       "você ainda possui estoque",
@@ -599,13 +870,23 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "28",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
-    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
+    "color": [
+      "qual a cor do produto",
+      "O produto possui qual cores",
+      "qual cor"
+    ],
     "product_qty": [
       "qual a quantidade do estoque",
       "você ainda possui estoque",
@@ -621,13 +902,23 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "29",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
-    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
+    "color": [
+      "qual a cor do produto",
+      "O produto possui qual cores",
+      "qual cor"
+    ],
     "product_qty": [
       "qual a quantidade do estoque",
       "você ainda possui estoque",
@@ -643,13 +934,23 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   },
   {
     "_id": "30",
-    "product_name": ["O nome do produto é", "qual o nome do produto", "", ""],
-    "color": ["qual a cor do produto", "O produto possui qual cores"],
+    "product_name": [
+      "O nome do produto é",
+      "qual o nome do produto",
+      "isso é chamado de",
+      "nome desse produto"
+    ],
+    "color": [
+      "qual a cor do produto",
+      "O produto possui qual cores",
+      "qual cor"
+    ],
     "product_qty": [
       "qual a quantidade do estoque",
       "você ainda possui estoque",
@@ -665,7 +966,8 @@
     "seller_name": [
       "qual é o seu nome",
       "qual o nome do vendedor",
-      "quem está vendendo o produto"
+      "quem está vendendo o produto",
+      "quem vende o produto"
     ]
   }
 ]

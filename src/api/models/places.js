@@ -24,15 +24,4 @@ const placesSchema = mongoose.Schema({
 });
 
 // onde aponto o cluster
-
 module.exports = mongoose.model("anydata" , placesSchema);
-
-
-// {
-//   "_id": "1",
-//   "product_name": "bolsa",
-//   "color": "branca, azul",
-//   "product_qty": "5",
-//   "description": "bolsa de veludo da louis vuitton",
-//   "seller_name": "felipe"
-// },

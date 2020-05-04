@@ -8,7 +8,7 @@ const Data_questions = require('../data/question_db')
 match = 0.1
 
 // pergunta do comprador
-var perg_r = " estoque"
+var perg_r = "estoque"
 
 
 const datas = Datas

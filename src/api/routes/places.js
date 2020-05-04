@@ -9,7 +9,6 @@ const answers = require('../../services/sofia');
 
 
 
-var perg_r = "qual a cor do produto"
 const datas = Datas
 const data_questions = Data_questions
 
@@ -33,108 +32,36 @@ router.post("/", (req, res, next) => {
     product_qty: req.body.product_qty,
     description: req.body.description,
     seller_name: req.body.seller_name
-    
+
   });
   place
     .save()
     .then(result => console.log(result))
-  // está retornando erro mesmo com status 200
-  //.cath(err => console.log(err));
   res.status(200).json({
-    message: "New place created"
+    message: "New product created"
   });
 });
 
 
-// Exibe um indice pelo id.
-router.get("/:placeId/:question", (req, res, next) => {
+// Exibe uma resposta do produto pelo indice pelo id.
+router.get("/:Id/:question", (req, res, next) => {
   const question = req.params.question;
-  const id = req.params.placeId;
+  const id = req.params.Id;
   Place.findById(id)
     .exec()
     .then(place => {
       if (place) {
         res.status(200).json({
-          message: answers(question, data_questions, datas, id)
-          // message: "Successfully edited"
+          answer: answers(question, data_questions, datas, id)
         });
       } else {
-        res.status(404).json({ message: "Local Não encontrado" });
+        res.status(404).json({ message: "id de produto não encontrado" });
       }
     })
     .catch(err => {
       res.status(500).json({ error: err });
     });
 });
-
-// res.status(200).json({
-//       message: "Successfully edited"
-//     });
-
-// trabalhando nessa função
-
-// router.put("/:placeId", (req, res, next) => {
-//   const id = req.params.placeId
-//   Place.findOneAndUpdate({
-//     _id: id,
-//     country: req.body.country,
-//     cases: req.body.cases,
-//     death: req.body.death,
-//     date: req.body.date,
-    
-//   },{new: true})
-//   .exec()
-//   .then(result => console.log(result))
-//   .catch(err => res.status(500).json({ error: err }));
-//   res.status(200).json({
-//     message: "Successfully edited"
-//   });
-// });
-
-// // Deleta apenas um dado no banco de dados
-// router.delete("/:placeId", (req, res, next) => {
-//   const id = req.params.placeId;
-//   Place.remove({ _id: id })
-//   .exec()
-//   .then(result => {
-//     res.status(200).json(result);
-//   })
-//   .catch(err => res.status(500).json({ error: err }));
-// });
-
-// // vai atualizar um registro
-// router.patch("/:placeId", (req, res, next) => {
-//   const id = req.params.placeId
-//   Place.updateOne({
-//     _id: id,
-//     country: req.body.country,
-//     cases: req.body.cases,
-//     death: req.body.death,
-//     date: req.body.date
-//   })
-//   .exec()
-//   .then(result => console.log(result))
-//   .catch(err => res.status(500).json({ error: err }));
-//   res.status(200).json({
-//     message: "Successfully edited"
-//   });
-// });
-
-// router.get("/:pages", (req, res, next) => {
-//   // estou preparando um parametro para ser executado por uma função
-//   let query = {};
-//   let page = req.params.pages;
-//   // parametro para quantidade de usuarios retornados no get importate
-//   let limit = 2;
-//   let skip = limit * (page - 1);
-//   Place.find(query)
-//     .skip(skip)
-//     .limit(limit)
-//     .exec()
-//     .then(placeList => res.status(200).json(page))
-//     .catch(err => res.status(500).json({ error: err }));
-// });
-
 
 
 module.exports = router;
