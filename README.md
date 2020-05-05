@@ -1,6 +1,6 @@
 # IA SofiA
 
-### Por não encontrarmos um produto configuravel com as características que julgamos necessárias para o **Olist**, desenvolvemos do zero nossa própia IA. A **SofiA**
+### Por não encontrarmos um produto configurável com as características que julgamos necessárias para o **Olist**, desenvolvemos do zero nossa própia IA. A **SofiA**
 
 **SofiA** tem o poder de analisar as perguntas feitas por clientes dos Marketplaces. Nossa robôzinha verifica se as respostas estão na descrição do produto e responde automaticamente.
 
