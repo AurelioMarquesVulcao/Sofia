@@ -1,6 +1,6 @@
 # IA SofiA
 
-### Por não encontrarmos um produto configuravél com as características que julgamos necessárias para o **Olist**, desenvolvemos do zero nossa própia IA. A **SofiA**
+### Por não encontrarmos um produto configuravel com as características que julgamos necessárias para o **Olist**, desenvolvemos do zero nossa própia IA. A **SofiA**
 
 **SofiA** tem o poder de analisar as perguntas feitas por clientes dos Marketplaces. Nossa robôzinha verifica se as respostas estão na descrição do produto e responde automaticamente.
 
@@ -72,7 +72,7 @@ Por ser projetada para ser social e não restritiva pode ser escalonada e vendid
     
     ``yarn dev``
 
-Se sua porta 3000 estiver ocupada provavelmente você terá a opção de mudar no momento que o servidor subir caso não vá ao arquivo ".env" e mude a porta para a porta desejada ``SERVER_PORT=3000``  para  ``SERVER_PORT=1234``  ou qualquer outra porta que queira usar.
+Se sua porta 3000 estiver ocupada provavelmente você terá a opção de mudar no momento que o servidor subir caso não. Vá ao arquivo ".env" e mude a porta para a porta desejada, ``SERVER_PORT=3000``  para  ``SERVER_PORT=1234``  ou qualquer outra porta que queira usar.
 
 > Ps: Um Aviso Importante---Não tenho **Node** nem **Yanr** instalados na minha máquina sou dev Pythônico.
 >
