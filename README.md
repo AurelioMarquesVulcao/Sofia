@@ -50,13 +50,13 @@ Por ser projetada para ser social e não restritiva pode ser escalonada e vendid
 ![teste03](https://github.com/AurelioMarquesVulcao/Sofia/blob/master/src/asset/images/teste%2003.PNG?raw=true)
 
 * No navegador web
-![teste04](./src/asset/images/teste04.png)
+![teste04](https://github.com/AurelioMarquesVulcao/Sofia/blob/master/src/asset/images/teste04.PNG?raw=true)
 
 ## Executando o código
 
 ### Baixe o códico no github como arquivo zip e o extraia numa pasta de sua escolha
 
-![executar01](./src/asset/images/executar01.png)
+![executar01](https://github.com/AurelioMarquesVulcao/Sofia/blob/master/src/asset/images/executar01.PNG?raw=true)
 
 ### Abra a pasta onde colocou o seu código, pegue o caminho para a pasta e no seu terminal digite:
 
